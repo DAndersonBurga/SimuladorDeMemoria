@@ -1,5 +1,5 @@
 # Simulador de Memoria - Anderson Burga
-![aplicacion](image.png)
+![aplicacion](/public/img/image.png)
 
 ### Configuración
 Instalar las dependencias:
